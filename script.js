@@ -1,4 +1,8 @@
 const players = ['John', 'Bob', 'Alice', 'Poppy'];
+let team=players;
+var team1=[...players];
+var cap1=[...person];
+
 
 const person = {
       name: 'John Doe',
